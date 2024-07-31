@@ -7,7 +7,7 @@ namespace OOP
 
         public void Meet()
         {
-            BaseKisi.Introduce(name,surname);
+            BaseKisi.Introduce(name,surname); // basekisi sınıfındaki metoru çağırıdım. Metotlar metot çağırabilir
             System.Console.WriteLine("Maasım: " + salary);
         }
     }

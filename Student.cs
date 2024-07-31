@@ -6,7 +6,7 @@ namespace OOP
 
         public void Hello()
         {
-            BaseKisi.Introduce(name,surname);
+            BaseKisi.Introduce(name,surname); // basekisi sınıfındaki metoru çağırıdım. Metotlar metot çağırabilir
             System.Console.WriteLine("Ogrenci numaram: " + studentNo);
         }
     }
