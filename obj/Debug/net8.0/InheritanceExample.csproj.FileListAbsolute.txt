@@ -1,0 +1,14 @@
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/bin/Debug/net8.0/InheritanceExample
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/bin/Debug/net8.0/InheritanceExample.deps.json
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/bin/Debug/net8.0/InheritanceExample.runtimeconfig.json
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/bin/Debug/net8.0/InheritanceExample.dll
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/bin/Debug/net8.0/InheritanceExample.pdb
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/obj/Debug/net8.0/InheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/obj/Debug/net8.0/InheritanceExample.AssemblyInfoInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/obj/Debug/net8.0/InheritanceExample.AssemblyInfo.cs
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/obj/Debug/net8.0/InheritanceExample.csproj.CoreCompileInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/obj/Debug/net8.0/InheritanceExample.dll
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/obj/Debug/net8.0/refint/InheritanceExample.dll
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/obj/Debug/net8.0/InheritanceExample.pdb
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/obj/Debug/net8.0/InheritanceExample.genruntimeconfig.cache
+/Users/aliberkayberber/Documents/Pratikler/InheritanceExample/obj/Debug/net8.0/ref/InheritanceExample.dll
